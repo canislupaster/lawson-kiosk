@@ -1,0 +1,47 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"request": "launch",
+			"name": "Server",
+			"type": "node",
+			"program": "${workspaceFolder}/server/main.ts",
+			"cwd": "${workspaceFolder}/server",
+			"env": {},
+			"runtimeExecutable": "deno",
+			"envFile": "${workspaceFolder}/server/.env",
+			"runtimeArgs": [
+				"run",
+				"--inspect-wait",
+				"--allow-net",
+				"--allow-run=cpp/build/main,cpp/build/wiki",
+				"--allow-env",
+				"--allow-ffi",
+				"--allow-read"
+			],
+			"console": "integratedTerminal",
+			"attachSimplePort": 9229
+		},
+		{
+			"type": "lldb",
+			"request": "launch",
+			"name": "Debug boardgen",
+			"program": "${workspaceFolder}/server/cpp/build/main",
+			"args": ["30 16 170 20 20"],
+			"cwd": "${workspaceFolder}/server/cpp",
+			"preLaunchTask": "Build boardgen",
+		},
+		{
+			"type": "lldb",
+			"request": "launch",
+			"name": "Debug wiki",
+			"program": "${workspaceFolder}/server/cpp/build/wiki",
+			"cwd": "${workspaceFolder}/server/cpp",
+			"args": ["select", "3"],
+			"preLaunchTask": "Build wiki",
+		}
+	]
+}
