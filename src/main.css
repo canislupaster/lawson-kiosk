@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'UnitedSans';
+	src: url('/fonts/UnitedSansRgBd.otf') format('opentype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UnitedSans';
+	src: url('/fonts/UnitedSansRgHv.otf') format('opentype');
+	font-weight: 900; /* Heavy or Extra Bold */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UnitedSans';
+	src: url('/fonts/UnitedSansRgLt.otf') format('opentype');
+	font-weight: 300; /* Light */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'UnitedSans';
+	src: url('/fonts/UnitedSansRgMd.otf') format('opentype');
+	font-weight: 500; /* Medium */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AcuminPro';
+	src: url('/fonts/AcuminPro-Bold.ttf') format('truetype');
+	font-weight: 700; /* Bold */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AcuminPro';
+	src: url('/fonts/AcuminPro-Light.ttf') format('truetype');
+	font-weight: 300; /* Light */
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'AcuminPro';
+	src: url('/fonts/AcuminPro-Regular.ttf') format('truetype');
+	font-weight: 400; /* Regular */
+	font-style: normal;
+}
+
+/* wiki race theme */
+
+.mw-parser-output .mw-editsection, .mw-parser-output .metadata, style {
+	display: none !important;
+}
+
+.mw-parser-output > * {
+	max-width: 100% !important;
+	overflow-x: auto !important;
+}
+
+.mw-parser-output > table {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	min-width: none;
+}
+
+.mw-parser-output span:not(.mwe-math-element,.plainlist *,.references *) {
+	display: inline-block;
+}
+
+.mw-parser-output > p {
+	text-indent: 15px;
+	margin-bottom: 10px;
+	margin: 7px;
+	display: block;
+	text-align: center;
+}
+
+.block-indent .mwe-math-element, .mwe-math-element *:not(.mwe-math-fallback-image-display) {
+	display: inline;
+}
+.mw-parser-output *:not(dl,dd,div,.mw-parser-output div *,figure,figure > *,.mwe-math-fallback-image-display,table,tbody,tr,td,th,ul:not(.portalbox *),li) {
+	display: inline;
+}
+
+.tsingle {
+	width: auto !important;
+	max-width: none !important;
+}
+
+.mw-parser-output > p > * {
+	text-indent: 0;
+}
+
+.mw-parser-output sup {
+	display: none;
+}
+
+.mw-parser-output .infobox {
+	display: block;
+	text-align: center;
+	width: auto;
+	max-width: 22em;
+}
+
+.mw-parser-output figcaption {
+	@apply text-base font-title font-bold;
+}
+
+/* .mw-parser-output table {
+	width: fit-content !important;
+	min-width: 200px;
+}
+
+.mw-parser-output .sidebar-image {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 10px !important;
+	gap: 10px;
+}
+
+.mw-parser-output .nowrap {
+	t
+}
+
+.mw-parser-output .wikitable, .mw-parser-output .infobox {
+	padding: 10px 15px;
+	border-radius: 5px;
+	margin: 7px;
+	background:rgba(0, 0, 0, 0.1);
+}
+
+.mw-parser-output td, .mw-parser-output th {
+	padding: 3px 5px;
+} */
+
+.mw-parser-output h1 {
+	@apply text-3xl font-bold my-4;
+}
+
+.mw-parser-output h2 {
+	@apply text-2xl font-semibold my-3;
+}
+
+.mw-parser-output h3 {
+	@apply text-2xl font-medium my-2;
+}
+
+.mw-parser-output h4 {
+	@apply text-xl font-normal my-1;
+}
+
+/* https://ibelick.com/blog/create-animated-gradient-borders-with-css */
+.animatedbg {
+  background: linear-gradient(var(--angle), #DAAA00, #CFB991) border-box;
+  animation: 2s rotate linear infinite;
+}
+
+@keyframes rotate {
+  to { --angle: 360deg; }
+}
+
+@property --angle {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+/* stolen dark theme from docs */
+.simple-keyboard.dark {
+  background-color: rgba(20, 20, 20, 0.8);
+  border-radius: 0;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.simple-keyboard.dark .hg-button {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(51, 51, 51, 0.5);
+  color: white;
+}
+
+.simple-keyboard.dark .hg-button:active {
+  background: #1c4995;
+  color: white;
+}

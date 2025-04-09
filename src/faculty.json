@@ -1,0 +1,1394 @@
+[
+	{
+			"Name": "George Adams",
+			"Title": "Teaching Professor",
+			"Phone": "49-60453",
+			"Office": "DSAI 1139B",
+			"Email": "mailto:gba@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/gba.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/gba.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Daniel Aliaga",
+			"Title": "Associate Professor",
+			"Phone": "No Phone",
+			"Office": "LWSN 3177",
+			"Email": "mailto:aliaga@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/aliaga.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/aliaga.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Walid Aref",
+			"Title": "Professor",
+			"Phone": "49-41997",
+			"Office": "LWSN 2142A",
+			"Email": "mailto:aref@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/aref.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/aref.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Mikhail Atallah",
+			"Title": "Distinguished Professor",
+			"Phone": "49-46010",
+			"Office": "LWSN 2116D",
+			"Email": "mailto:matallah@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/matallah.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/matallah.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Saugata Basu",
+			"Title": "Professor of Mathematics and Computer Science",
+			"Phone": "49-48798",
+			"Office": "MATH 742",
+			"Email": "mailto:sbasu@math.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sbasu.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/sbasu.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Andres Bejarano Posada",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "",
+			"Office": "DSAI 1139A",
+			"Email": "mailto:abejara@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/abejara.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/abejara.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Bedrich Benes",
+			"Title": "Professor and Associate Department Head",
+			"Phone": "49-62954",
+			"Office": "LWSN 3154L",
+			"Email": "mailto:bbenes@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bbenes.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bbenes.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Hisham Benotman",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "49-69370",
+			"Office": "DSAI 1119G",
+			"Email": "mailto:hbenotma@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/hbenotma.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Aniket Bera",
+			"Title": "Associate Professor",
+			"Phone": "",
+			"Office": "DSAI 3069",
+			"Email": "mailto:ab@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bera89.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bera89.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Tony Bergstrom",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "49-46330",
+			"Office": "DSAI 1119F",
+			"Email": "mailto:bgstm@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bgstm.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bgstm.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Elisa Bertino",
+			"Title": "Samuel D. Conte Distinguished Professor of Computer Science",
+			"Phone": "49-62399",
+			"Office": "LWSN 2142G",
+			"Email": "mailto:bertino@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bertino.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bertino.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Bharat Bhargava",
+			"Title": "Professor",
+			"Phone": "49-46013",
+			"Office": "LWSN 2116F",
+			"Email": "mailto:bbshail@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bbshail.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bbshail.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Antonio Bianchi",
+			"Title": "Assistant Professor",
+			"Phone": "49-47100",
+			"Office": "LWSN 1167",
+			"Email": "mailto:antoniob@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/antoniob.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/antoniob.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Jeremiah Blocki",
+			"Title": "Associate Professor",
+			"Phone": "49-69432",
+			"Office": "LWSN 1165",
+			"Email": "mailto:jblocki@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/jblocki.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/jblocki.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Michael Borkowski",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "",
+			"Office": "DSAI 1119C",
+			"Email": "mailto:mhborkow@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mhborkow.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Simina Branzei",
+			"Title": "Assistant Professor",
+			"Phone": "49-49025",
+			"Office": "LWSN 1205",
+			"Email": "mailto:simina@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/simina.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/simina.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Brian Bullins",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3127",
+			"Email": "mailto:bbullins@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bbullins.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bbullins.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Joseph Campbell",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3047",
+			"Email": "mailto:joecamp@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/joecamp.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Berkay Celik",
+			"Title": "Assistant Professor",
+			"Phone": "49-61761",
+			"Office": "LWSN 1187",
+			"Email": "mailto:zcelik@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/zcelik.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/zcelik.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Chris Clifton",
+			"Title": "Professor",
+			"Phone": "49-46005",
+			"Office": "DSAI 2097",
+			"Email": "mailto:clifton@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/clifton.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/clifton.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Douglas Comer",
+			"Title": "Distinguished Professor",
+			"Phone": "49-46009",
+			"Office": "LWSN 1171",
+			"Email": "mailto:comer@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/comer.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/comer.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Benjamin Delaware",
+			"Title": "Assistant Professor",
+			"Phone": "49-69433",
+			"Office": "LWSN 2116M",
+			"Email": "mailto:bendy@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bendy.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bendy.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Tamal Dey",
+			"Title": "Professor",
+			"Phone": "49-60913",
+			"Office": "LWSN 3183",
+			"Email": "mailto:tamaldey@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/tamaldey.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/tamaldey.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Petros Drineas",
+			"Title": "Professor and Department Head of Computer Science",
+			"Phone": "49-69369",
+			"Office": "LWSN 3144F",
+			"Email": "mailto:pdrineas@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/pdrineas.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/pdrineas.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "H. E. Dunsmore",
+			"Title": "Associate Professor",
+			"Phone": "49-41996",
+			"Office": "LWSN 1189",
+			"Email": "mailto:dunsmore@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/bxd.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/bxd.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Sonia Fahmy",
+			"Title": "Professor and Associate Department Head",
+			"Phone": "49-46183",
+			"Office": "LWSN 2142H",
+			"Email": "mailto:fahmy@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/fahmy.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/fahmy.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Pedro Fonseca",
+			"Title": "Assistant Professor",
+			"Phone": "49-66555",
+			"Office": "DSAI 2116",
+			"Email": "mailto:pfonseca@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/pfonseca.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/pfonseca.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Christina Garman",
+			"Title": "Assistant Professor",
+			"Phone": "49-49580",
+			"Office": "LWSN 1185",
+			"Email": "mailto:clg@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/clg.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/clg.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "David Gleich",
+			"Title": "Professor",
+			"Phone": "49-67300",
+			"Office": "LWSN 1207",
+			"Email": "mailto:dgleich@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/dgleich.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/dgleich.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Aarushi Goel",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "LWSN 2142D",
+			"Email": "mailto:goel144@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/goel144.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Dan Goldwasser",
+			"Title": "Associate Professor",
+			"Phone": "49-60332",
+			"Office": "DSAI 3116",
+			"Email": "mailto:dgoldwas@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/dgoldwas.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/dgoldwas.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ananth Grama",
+			"Title": "Samuel D. Conte Professor of Computer Science",
+			"Phone": "49-46964",
+			"Office": "LWSN 3154F",
+			"Email": "mailto:ayg@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ayg.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ayg.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Elena Grigorescu",
+			"Title": "Associate Professor",
+			"Phone": "49-61185",
+			"Office": "LWSN 1209",
+			"Email": "mailto:egrigore@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/egrigore.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/egrigore.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Susanne Hambrusch",
+			"Title": "Professor",
+			"Phone": "49-41831",
+			"Office": "LWSN 1179",
+			"Email": "mailto:seh@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/seh.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/seh.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Steve Hanneke",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3121",
+			"Email": "mailto:hanneke@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/hanneke.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/hanneke.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Suresh Jagannathan",
+			"Title": "Samuel D. Conte Professor of Computer Science",
+			"Phone": "49-40971",
+			"Office": "LWSN 3154J",
+			"Email": "mailto:suresh@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sjaganna.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/sjaganna.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Sooyeon Jeong",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3061",
+			"Email": "mailto:sooyeonj@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sooyeonj.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Changhee Jung",
+			"Title": "Samuel D. Conte Associate Professor of Computer Science",
+			"Phone": "49-48508",
+			"Office": "LWSN 3154G",
+			"Email": "mailto:chjung@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/chjung.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/chjung.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Aniket Kate",
+			"Title": "Associate Professor",
+			"Phone": "49-62763",
+			"Office": "LWSN 1169",
+			"Email": "mailto:aniket@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/akate.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/akate.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Majid Kazemian",
+			"Title": "Associate Professor of Biochemistry and Computer Science",
+			"Phone": "49-49350",
+			"Office": "HANS 225A",
+			"Email": "mailto:kazemian@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/kazemian.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Rajiv Khanna",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3112",
+			"Email": "mailto:rajivak@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rajivak.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/rajivak.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Daisuke Kihara",
+			"Title": "Professor of Biology and Computer Science",
+			"Phone": "49-62284",
+			"Office": "HOCK 229",
+			"Email": "mailto:dkihara@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/dkihara.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/dkihara.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Zachary Kingston",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3059",
+			"Email": "mailto:zkingston@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/zkingsto.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/zkingsto.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ninghui Li",
+			"Title": "Samuel D. Conte Professor of Computer Science and Associate Department Head",
+			"Phone": "49-66756",
+			"Office": "LWSN 2142K",
+			"Email": "mailto:ninghui@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ninghui.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ninghui.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Zhiyuan Li",
+			"Title": "Professor",
+			"Phone": "49-47822",
+			"Office": "DSAI 3063",
+			"Email": "mailto:li@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ci.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ci.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Hemanta Maji",
+			"Title": "Associate Professor",
+			"Phone": "49-46184",
+			"Office": "LWSN 1177",
+			"Email": "mailto:hmaji@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/hmaji.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Anuran Makur",
+			"Title": "Assistant Professor of Computer Science and ECE",
+			"Phone": "",
+			"Office": "LWSN 2116J",
+			"Email": "mailto:amakur@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/amakur.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/amakur.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Christopher May",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "",
+			"Office": "DSAI 1119E",
+			"Email": "mailto:may5@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/may5.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Xupeng Miao",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3144",
+			"Email": "mailto:xupeng@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/miao83.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Snehasis Mukhopadhyay",
+			"Title": "Professor, Indianapolis",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:smukhop@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/smukhop.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/smukhop.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Jennifer Neville",
+			"Title": "Samuel D. Conte Professor of Computer Science",
+			"Phone": "49-69387",
+			"Office": "DSAI 3118",
+			"Email": "mailto:neville@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/neville.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/neville.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ryan Newton",
+			"Title": "Associate Professor of ECE and Computer Science",
+			"Phone": "",
+			"Office": "BHEE 337A",
+			"Email": "mailto:rrnewton@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rrnewton.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/rrnewton.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Kihong Park",
+			"Title": "Associate Professor",
+			"Phone": "49-47821",
+			"Office": "LWSN 2142C",
+			"Email": "mailto:park@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/park0.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/park0.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Chunyi Peng",
+			"Title": "Associate Professor",
+			"Phone": "49-45884",
+			"Office": "DSAI 2142",
+			"Email": "mailto:chunyi@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/chunyi.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Voicu Popescu",
+			"Title": "Associate Professor",
+			"Phone": "No Phone",
+			"Office": "LWSN 3179",
+			"Email": "mailto:popescu@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/popescu.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/popescu.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Alex Pothen",
+			"Title": "Professor",
+			"Phone": "49-69376",
+			"Office": "LWSN 2116G",
+			"Email": "mailto:apothen@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/apothen.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/apothen.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Sunil Prabhakar",
+			"Title": "Professor and Vice Provost for Faculty Affairs",
+			"Phone": "49-49709",
+			"Office": "HOVD 111",
+			"Email": "mailto:sunil@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sunil.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/sunil.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Alex Psomas",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 2144",
+			"Email": "mailto:apsomas@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/apsomas.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/apsomas.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Kent Quanrud",
+			"Title": "Assistant Professor",
+			"Phone": "49-48773",
+			"Office": "LWSN 1211",
+			"Email": "mailto:krq@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/krq.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/krq.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ahmed Qureshi",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3039",
+			"Email": "mailto:qureshi7@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/qureshi7.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/qureshi7.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Vernon Rego",
+			"Title": "Professor",
+			"Phone": "49-47835",
+			"Office": "DSAI 2118",
+			"Email": "mailto:rego@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rego.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/rego.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Bruno Ribeiro",
+			"Title": "Associate Professor",
+			"Phone": "49-62331",
+			"Office": "DSAI 3142",
+			"Email": "mailto:ribeirob@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ribeirob.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ribeirob.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Gustavo Rodriguez-Rivera",
+			"Title": "Associate Teaching Professor",
+			"Phone": "49-49161",
+			"Office": "DSAI 1139C",
+			"Email": "mailto:grr@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/grr.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/grr.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Tiark Rompf",
+			"Title": "Kevin C. and Susanne L. Kahn New Frontiers Associate Professor",
+			"Phone": "49-49027",
+			"Office": "LWSN 2116H",
+			"Email": "mailto:tiark@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rompf.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/rompf.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Elisha Sacks",
+			"Title": "Professor",
+			"Phone": "49-49026",
+			"Office": "LWSN 3181",
+			"Email": "mailto:eps@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/eps.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/eps.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Eric Samperton",
+			"Title": "Assistant Professor of Quantum Information Science",
+			"Phone": "49-41937",
+			"Office": "MATH 402",
+			"Email": "mailto:eric@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/esampert.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/esampert.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Abulhair Saparov",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3123",
+			"Email": "mailto:asaparov@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/asaparov.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/asaparov.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Sarah Sellke",
+			"Title": "Associate Teaching Professor",
+			"Phone": "",
+			"Office": "DSAI 1119H",
+			"Email": "mailto:ssellke@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ssellke.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ssellke.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Muhammad Shahbaz",
+			"Title": "Kevin C. and Suzanne L. Kahn New Frontiers Assistant Professor",
+			"Phone": "49-60728",
+			"Office": "DSAI 2123",
+			"Email": "mailto:mshahbaz@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mshahbaz.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/mshahbaz.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Mary Anne Smart",
+			"Title": "Assistant Teaching Professor",
+			"Phone": "",
+			"Office": "DSAI 1119D",
+			"Email": "mailto:masmart@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/masmart.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Eugene Spafford",
+			"Title": "Professor",
+			"Phone": "49-47825",
+			"Office": "LWSN 1183",
+			"Email": "mailto:spaf@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/spaf.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/spaf.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Wojciech Szpankowski",
+			"Title": "Saul Rosen Distinguished Professor of Computer Science",
+			"Phone": "49-46703",
+			"Office": "LWSN 1201",
+			"Email": "mailto:spa@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/szpan.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/szpan.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Lin Tan",
+			"Title": "Mary J. Elmore New Frontiers Professor of Computer Science",
+			"Phone": "49-47190",
+			"Office": "LWSN 3154M",
+			"Email": "mailto:lintan@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/lintan.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/lintan.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Kazem Taram",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 2039",
+			"Email": "mailto:kazem@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mtaram.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/mtaram.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Dave Tian",
+			"Title": "Assistant Professor",
+			"Phone": "49-66544",
+			"Office": "LWSN 1175",
+			"Email": "mailto:daveti@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/daveti.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/daveti.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Xavier Tricoche",
+			"Title": "Associate Professor",
+			"Phone": "49-69416",
+			"Office": "LWSN 3154P",
+			"Email": "mailto:xmt@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/xmt.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/xmt.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Gavriil Tsechpenakis",
+			"Title": "Associate Professor, Indianapolis",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:gtsechpe@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/gtsechpe.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Mihran Tuceryan",
+			"Title": "Professor, Indianapolis",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:mtucerya@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mtucerya.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/mtucerya.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Jeff Turkstra",
+			"Title": "Associate Teaching Professor",
+			"Phone": "49-63088",
+			"Office": "DSAI 1139E",
+			"Email": "mailto:jeff@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/turkstra.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/turkstra.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Paul Valiant",
+			"Title": "Associate Professor",
+			"Phone": "",
+			"Office": "LWSN 2116E",
+			"Email": "mailto:pvaliant@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/pvaliant.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/pvaliant.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Jianguo Wang",
+			"Title": "Assistant Professor",
+			"Phone": "49-60726",
+			"Office": "LWSN 2142B",
+			"Email": "mailto:csjgwang@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/csjgwang.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/csjgwang.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Patrick Wolfe",
+			"Title": "Provost and Executive Vice President for Academic Affairs and Diversity",
+			"Phone": "",
+			"Office": "HOVD 109",
+			"Email": "mailto:patrick@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/patrick.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/patrick.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Dongyan Xu",
+			"Title": "Samuel D. Conte Professor of Computer Science",
+			"Phone": "49-46182",
+			"Office": "LWSN 1173",
+			"Email": "mailto:dxu@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/dxu.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/dxu.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Yexiang Xue",
+			"Title": "Assistant Professor",
+			"Phone": "49-60456",
+			"Office": "DSAI 3089",
+			"Email": "mailto:yexiang@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/yexiang.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/yexiang.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Raymond Yeh",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3073",
+			"Email": "mailto:rayyeh@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rayyeh.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/rayyeh.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ming Yin",
+			"Title": "Assistant Professor",
+			"Phone": "49-69381",
+			"Office": "DSAI 3055",
+			"Email": "mailto:mingyin@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mingyin.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/mingyin.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Ruqi Zhang",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "DSAI 3097",
+			"Email": "mailto:ruqiz@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ruqiz.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/ruqiz.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Tianyi Zhang",
+			"Title": "Assistant Professor",
+			"Phone": "",
+			"Office": "LWSN 3154H",
+			"Email": "mailto:tianyi@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/tianyi.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/tianyi.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Xiangyu Zhang",
+			"Title": "Samuel D. Conte Professor of Computer Science",
+			"Phone": "49-69415",
+			"Office": "LWSN 3154K",
+			"Email": "mailto:xyzhang@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/xyzhang.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/xyzhang.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Yongle Zhang",
+			"Title": "Assistant Professor",
+			"Phone": "49-60727",
+			"Office": "DSAI 2127",
+			"Email": "mailto:yonglezh@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/yonglezh.html",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Jiang Zheng",
+			"Title": "Professor, Indianapolis",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:jyzheng@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/jyzheng.html",
+			"Photo": "https://www.cs.purdue.edu/people/images/small/faculty/jyzheng.jpg",
+			"Category": "Faculty"
+	},
+	{
+			"Name": "Name",
+			"Title": "Title",
+			"Phone": "Phone",
+			"Office": "Office",
+			"Email": "Email",
+			"Bio": "Bio",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Vaneet Aggarwal",
+			"Title": "Professor (Industrial Engineering)",
+			"Phone": "",
+			"Office": "GRIS 260",
+			"Email": "mailto:vaneet@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/vaneet.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Saurabh Bagchi",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "49-43362",
+			"Office": "EE 329",
+			"Email": "mailto:sbagchi@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sbagchi.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Elias Bareinboim",
+			"Title": "Adjunct Associate Professor of Computer Science",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:eb@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/eb.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Gaurav Chopra",
+			"Title": "Associate Professor (Chemistry)",
+			"Phone": "49-66108",
+			"Office": "DRUG 261",
+			"Email": "mailto:gchopra@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/gchopra.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Edward Delp",
+			"Title": "Professor (Electrical and Computer Engineering, Biomedical Engineering)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:ace@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ace.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Jean Honorio Carrillo",
+			"Title": "Adjunct Assistant Professor",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:jhonorio@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/jhonorio.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Y Charlie Hu",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "49-49143",
+			"Office": "MSEE 226",
+			"Email": "mailto:ychu@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ychu.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Sabre Kais",
+			"Title": "Distinguished Professor (Chemistry)",
+			"Phone": "49-45965",
+			"Office": "WTHR 265G",
+			"Email": "mailto:kais@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/kais.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Murat Kocaoglu",
+			"Title": "Assistant Professor (Electrical and Computer Engineering)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:mkocaoglu@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mkocaogl.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Milind Kulkarni",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:milind@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/milind.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Yung-Hsiang Lu",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:yunglu@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/yunglu.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Sanjay Rao",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "",
+			"Office": "EE 322A",
+			"Email": "mailto:sanjay@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sanjay.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Vinayak Rao",
+			"Title": "Associate Professor (Statistics)",
+			"Phone": "49-43956",
+			"Office": "MATH 212",
+			"Email": "mailto:varao@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/varao.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Roopsha Samanta",
+			"Title": "Adjunct Assistant Professor",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:roopsha@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/roopsha.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "T.N. Vijaykumar",
+			"Title": "Professor (Electrical and Computer Engineering)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:vijay@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/vijay.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Mark Ward",
+			"Title": "Professor (Statistics)",
+			"Phone": "49-69563",
+			"Office": "HILL C129",
+			"Email": "mailto:mdw@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/mdw.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Jianlin Xia",
+			"Title": "Professor (Mathematics)",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:xiaj@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/xiaj.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Vassilis Zikas",
+			"Title": "Adjunct Assistant Professor",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:vzikas@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/vzikas.html",
+			"Category": "Adjunct and Courtesy Faculty"
+	},
+	{
+			"Name": "Name",
+			"Title": "Title",
+			"Phone": "Phone",
+			"Office": "Office",
+			"Email": "Email",
+			"Bio": "Bio",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Ahmed Elmagarmid",
+			"Title": "Professor Emeritus",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:ake@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ake.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Greg Frederickson",
+			"Title": "Professor Emeritus",
+			"Phone": "49-46016",
+			"Office": "LWSN 2142N",
+			"Email": "mailto:gnf@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/gnf.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Walter Gautschi",
+			"Title": "Professor Emeritus",
+			"Phone": "49-41995",
+			"Office": "LWSN 2116A",
+			"Email": "mailto:wgautschi@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/wgautsch.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Elias Houstis",
+			"Title": "Professor Emeritus",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:enh@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/enh.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Brad Lucier",
+			"Title": "Professor Emeritus",
+			"Phone": "49-41979",
+			"Office": "MATH 809",
+			"Email": "mailto:bjl@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/lucier.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Robert Lynch",
+			"Title": "Professor Emeritus",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:rel@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rel.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Aditya Mathur",
+			"Title": "Professor Emeritus",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:apm@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/apm.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Ahmed Sameh",
+			"Title": "Samuel D. Conte Professor Emeritus",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:sameh@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/sameh.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Samuel Wagstaff",
+			"Title": "Professor Emeritus",
+			"Phone": "49-46022",
+			"Office": "CONV 3800",
+			"Email": "mailto:ssw@cs.purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/wagstaff.html",
+			"Category": "Faculty Emeriti"
+	},
+	{
+			"Name": "Name",
+			"Title": "Title",
+			"Phone": "Phone",
+			"Office": "Office",
+			"Email": "Email",
+			"Bio": "Bio",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Nagender Aneja",
+			"Title": "",
+			"Phone": "",
+			"Office": "LWSN",
+			"Email": "mailto:naneja@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Manoja Rajalakshmi Aravindakshan",
+			"Title": "Visiting Scholar",
+			"Phone": "",
+			"Office": "LWSN",
+			"Email": "mailto:maravind@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Dunka Dirting Bakwa",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:dbakwa@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Yulia Belyakova",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:ybelyako@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Chulhee Cho",
+			"Title": "",
+			"Phone": "",
+			"Office": "LWSN 2142W",
+			"Email": "mailto:cho416@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "SM Ferdous",
+			"Title": "Visiting Scholar",
+			"Phone": "",
+			"Office": "LWSN 2142P",
+			"Email": "mailto:sferdou@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Arslan Khan",
+			"Title": "",
+			"Phone": "",
+			"Office": "HAAS 274#1",
+			"Email": "mailto:khan253@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Hyungsub Kim",
+			"Title": "",
+			"Phone": "",
+			"Office": "HAAS 274#4",
+			"Email": "mailto:kim2956@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Aayushya Nair",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "LWSN",
+			"Email": "mailto:nair61@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Tapti Palit",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "LWSN 3154R",
+			"Email": "mailto:tpalit@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Itay Moshe Safran",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "LWSN 2116S",
+			"Email": "mailto:isafran@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Ioannis Tzannetos",
+			"Title": "",
+			"Phone": "",
+			"Office": "",
+			"Email": "mailto:itzannet@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Julio Augusto Vera Sancho",
+			"Title": "",
+			"Phone": "166-3092",
+			"Office": "LWSN",
+			"Email": "mailto:jverasa@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Guannan Wei",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "LWSN 3133#41",
+			"Email": "mailto:guannanwei@outlook.com",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Changlong Wu",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "HAAS 212",
+			"Email": "mailto:wu1872@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Kailin Yin",
+			"Title": "Visiting Scholar",
+			"Phone": "",
+			"Office": "LWSN",
+			"Email": "mailto:yin272@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Junmin Zhu",
+			"Title": "",
+			"Phone": "767-1655",
+			"Office": "LWSN",
+			"Email": "mailto:zhu1244@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Yu Zhu",
+			"Title": "Post Doctoral Research Associate",
+			"Phone": "",
+			"Office": "LWSN",
+			"Email": "mailto:zhu1246@purdue.edu",
+			"Bio": "",
+			"Category": "Visiting Faculty and Research Staff"
+	},
+	{
+			"Name": "Jessica Conner-Strunk",
+			"Title": "Lecturer",
+			"Phone": "",
+			"Office": "LWSN B116B",
+			"Email": "mailto:jmconner@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/jmconner.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Marta Crowe",
+			"Title": "Senior Lecturer",
+			"Phone": "49-60457",
+			"Office": "LWSN B116H",
+			"Email": "mailto:crowe@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/crowe.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Bill Crum",
+			"Title": "Senior Lecturer",
+			"Phone": "49-46027",
+			"Office": "LWSN B116G",
+			"Email": "mailto:wcrum@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/wcrum.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Eman Diyab",
+			"Title": "Lecturer",
+			"Phone": "49-47804",
+			"Office": "LWSN B116C",
+			"Email": "mailto:ediyab@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/ediyab.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Aaditya Kharel",
+			"Title": "Lecturer, Indianapolis",
+			"Phone": "",
+			"Office": "LWSN B116A",
+			"Email": "mailto:kharel@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/kharel.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Xiaojin Liu",
+			"Title": "Lecturer",
+			"Phone": "49-47811",
+			"Office": "LWSN B116D",
+			"Email": "mailto:liu218@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/liu218.html",
+			"Category": "Instructors"
+	},
+	{
+			"Name": "Carrie Rector",
+			"Title": "Senior Lecturer, Indianpolis",
+			"Phone": "",
+			"Office": "LWSN B116J",
+			"Email": "mailto:rectorcm@purdue.edu",
+			"Bio": "https://www.cs.purdue.edu/people/faculty/rectorcm.html",
+			"Category": "Instructors"
+	}
+]

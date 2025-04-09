@@ -1,0 +1,23 @@
+{
+  "imports": {
+    "@db/sqlite": "jsr:@db/sqlite@^0.12.0",
+    "@soapbox/kysely-deno-sqlite": "jsr:@soapbox/kysely-deno-sqlite@^2.2.0",
+    "enquirer": "npm:enquirer@^2.4.1",
+    "hono": "jsr:@hono/hono@^4.6.12",
+    "kysely": "npm:kysely@^0.27.4",
+    "zod": "npm:zod@^3.23.8"
+  },
+  "tasks": {
+    "start": "deno run --env-file --allow-net --allow-run=cpp/build/main,cpp/build/wiki --allow-env --allow-ffi --allow-read main.ts",
+    "admin": "deno run --env-file --allow-net --allow-env admin.ts"
+  },
+  "compilerOptions": {
+    "jsx": "precompile",
+    "jsxImportSource": "hono/jsx"
+  },
+  "lint": {
+    "rules": {
+      "exclude": ["require-await"]
+    }
+  }
+}
